@@ -17,6 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"dyk修改");
+    NSLog(@"再次修改");
     return YES;
 }
 
